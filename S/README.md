@@ -1,7 +1,7 @@
 #Principio de Responsabilidad unica o como seria en ingles Single Responsibility Principle (SRP)
   
 # El principio de responsabilidad unica establece que:
-# una clase o modulo debe de tener una unica razon para cambiar
+# una clase o modulo gitdebe de tener una unica razon para cambiar
 
 # Ventajas:
     # Mejora la modularidad
