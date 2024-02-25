@@ -4,10 +4,10 @@
 # una clase o modulo gitdebe de tener una unica razon para cambiar
 
 # Ventajas:
-    # Mejora la modularidad
-    # Incrementa la mantenibilidad
-    # Promueve la reusabilidad
-    # Facilita las pruebas
+    * Mejora la modularidad
+    * Incrementa la mantenibilidad
+    * Promueve la reusabilidad
+    * Facilita las pruebas
     
 # Desventajas
     # Mayor numero de clases o modulos
